@@ -314,18 +314,15 @@ REM reg add "HKCU\Software\Microsoft\InputPersonalization" ...
 
 ---
 
-## 🔗 Похожие проекты
+## 👨‍💻 Автор
 
-- [LTSC_Golden_Image_Builder](https://github.com/NaitSide/LTSC_Golden_Image_Builder) — создание эталонного образа Windows через Sysprep
-- [LTSC_MS-Store_2021_Installer](https://github.com/NaitSide/LTSC_MS-Store_2021_Installer) — установка Microsoft Store в LTSC
-- [LTSC_Media_Extensions_Installer](https://github.com/NaitSide/LTSC_Media_Extensions_Installer) — установка медиа-расширений (AV1, HEVC, WebP)
-- [LTSC_System_Apps_Installer](https://github.com/NaitSide/LTSC_System_Apps_Installer) — установка базовых UWP-приложений
+**NaitSide** · Telegram: [@something_on_the_smart](https://t.me/something_on_the_smart)
 
 ---
 
-## 👤 Автор
+## 🔗 Ссылки
 
-**NaitSide** — 2026
+- [GitHub NaitSide](https://github.com/NaitSide)
 
 ---
 
@@ -336,7 +333,7 @@ REM reg add "HKCU\Software\Microsoft\InputPersonalization" ...
 
 ---
 
-## 🤝 Поддержка
+## 💝 Поддержка
 
 Если скрипт помог — поставь ⭐ на GitHub!
 
